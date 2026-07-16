@@ -74,7 +74,7 @@ Analizar el comportamiento de los clientes mediante indicadores de valor, frecue
 
 ### 6.4. Análisis Productos
 Evaluar el desempeño de productos, categorías, marcas e inventario.
-![Product Analysis](Imagenes/pag3_producto.png)
+![Product Analysis](Imagenes/pag3_productos.png)
 
 ## 7. Hallazgos principales / Conclusiones
 
