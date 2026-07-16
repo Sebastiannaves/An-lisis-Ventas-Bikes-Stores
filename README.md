@@ -57,7 +57,7 @@ Presentar una visión resumida del desempeño comercial de las sucursales.
 
 ### 6.3. Customer Analysis
 Analizar el comportamiento de los clientes mediante indicadores de valor, frecuencia de compra y recompra.
-![Customer Analysis](Imagenes/pag2_clientess.png)
+![Customer Analysis](Imagenes/pag2_clientes.png)
 
 
 
