@@ -36,7 +36,7 @@ Identificar los factores que afectan el desempeño comercial de las sucursales d
 - ¿Las diferencias de desempeño entre sucursales pueden estar relacionadas con la disponibilidad de productos?.
 - ¿Qué porcentaje de las ventas aporta cada vendedor dentro de su sucursal?.
 
-## 4 Metodología
+## 4. Metodología
 1. Exploración de datos.
 2. Realizar consultas SQL para responder las preguntas de negocio.
 3. Conexión de SQL Server con Power BI, creación de tablas en Power Query y modelado de datos (esquema estrella).
@@ -60,7 +60,7 @@ Las consultas incluyen:
 ## 6. Power BI Dashboard
 Presentación del archivo Power BI.
 
-### 6.1 Modelado de datos
+### 6.1. Modelado de datos
 Se modificó el modelo de SQL a un modelo estrella para facilitar el análisis en Power BI. El modelo está compuesto por una tabla de hechos (Ventas) y las dimensiones de Productos, Clientes, Tiendas, Vendedores, Marcas, Categorías y Calendario.
 ![Modelo_datos](Imagenes/Modelo_datos.png)
 
